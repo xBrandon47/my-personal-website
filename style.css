@@ -23,3 +23,12 @@ h2 {
     outline: 2px;
     text-align: center;
 }
+
+#about {
+    background: url("https://assets3.thrillist.com/v1/image/2899442/750x500/flatten;crop;webp=auto;jpeg_quality=50.jpg");
+    text-align: center;
+    color:royalblue;
+    padding: 10px;
+    margin-top: auto;
+    font-size: 25px;
+}
