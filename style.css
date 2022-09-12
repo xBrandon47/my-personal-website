@@ -1,3 +1,25 @@
 body {
-    background: blue;
+    background-image: url("https://img.freepik.com/free-vector/realistic-galaxy-background_52683-12122.jpg?w=1480&t=st=1662952394~exp=1662952994~hmac=2a02d95564b485d973af095e531cd31861257079e295a9e65d843ae917a4eedb");
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    font-family: cursive;
+    font-size: 55px;
+}
+
+h2 {
+    color: whitesmoke;
+    font-style: italic;
+    text-align: end;
+}
+
+#location {
+    background: url("https://a-z-animals.com/media/2022/03/%D0%91%D0%B5%D0%B7-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1-1-1024x614.jpg");
+    height: 10rem;
+    position: relative;
+    color: black;
+    outline: 2px;
+    text-align: center;
 }
